@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "rest_api.Controllers.AdminController",
+    "Method": "GetPuzzles",
+    "RelativePath": "admin/puzzles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rest_api.Controllers.AdminController",
+    "Method": "GetUsers",
+    "RelativePath": "admin/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
